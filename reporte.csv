@@ -1,0 +1,4 @@
+Título,Dominio,Fecha de Brecha,Datos Comprometidos,Verificada,Sensible
+Adobe,adobe.com,2013-10-04,"Email addresses, Password hints, Passwords, Usernames",Sí,No
+000webhost,000webhost.com,2015-03-01,"Email addresses, IP addresses, Names, Passwords",Sí,No
+Heroes of Newerth,heroesofnewerth.com,2012-12-17,"Email addresses, Passwords, Usernames",Sí,No
